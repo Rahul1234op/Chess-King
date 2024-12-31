@@ -1,17 +1,17 @@
-# Chess kingA
+# Chess king
 React-based Chess application built with TypeScript, offering rich gameplay features, a responsive user interface, and seamless state management. Tension builds as players strategize, controlling the board, launching attacks, and defending their pieces. A well-timed sacrifice or clever tactic can turn the tide, leading to checkmate or a drawn endgame..
 
 ## Features
 
 
-Interactive chessboard with drag-and-drop functionality.
-Highlights the optimal move for the current position, helping beginners learn strategic play.
-Multiplayer support with live game updates.
-Replay and share games.
-Dynamic themes and animations.
-AI-powered opponent for single-player mode.
-Post-game analysis showing key moments, turning points, and alternative strategies.
-Built-in support for undo/redo moves
+-Interactive chessboard with drag-and-drop functionality.
+-Highlights the optimal move for the current position, helping beginners learn strategic play.
+-Multiplayer support with live game updates.
+-Replay and share games.
+-Dynamic themes and animations.
+-AI-powered opponent for single-player mode.
+-Post-game analysis showing key moments, turning points, and alternative strategies.
+-Built-in support for undo/redo moves
 
 ## Technologies Used
 
