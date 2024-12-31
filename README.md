@@ -1,25 +1,27 @@
-# Chess Legends
-
-A React-based Chess application built with TypeScript, offering rich gameplay features, a responsive user interface, and seamless state management.
+# Chess kingA
+React-based Chess application built with TypeScript, offering rich gameplay features, a responsive user interface, and seamless state management. Tension builds as players strategize, controlling the board, launching attacks, and defending their pieces. A well-timed sacrifice or clever tactic can turn the tide, leading to checkmate or a drawn endgame..
 
 ## Features
 
-- Interactive chessboard with drag-and-drop functionality.
-- Multiplayer support with live game updates.
-- Replay and share games.
-- Dynamic themes and animations.
-- AI-powered opponent for single-player mode.
-- Built-in support for undo/redo moves.
+
+Interactive chessboard with drag-and-drop functionality.
+Highlights the optimal move for the current position, helping beginners learn strategic play.
+Multiplayer support with live game updates.
+Replay and share games.
+Dynamic themes and animations.
+AI-powered opponent for single-player mode.
+Post-game analysis showing key moments, turning points, and alternative strategies.
+Built-in support for undo/redo moves
 
 ## Technologies Used
 
-- *Frontend:* React, TypeScript, ESLint, React Hooks.
-- *Backend:* Node.js, Express (Optional if backend is integrated).
-- *State Management:* Context API, Redux (if applicable).
-- *Styling:* CSS Modules, TailwindCSS.
-- *Build Tools:* Yarn, Webpack, Babel.
-- *Linting:* ESLint with TypeScript and React plugins.
-
+-Frontend: React, TypeScript, ESLint, React Hooks.
+-Backend: Node.js, Express (Optional if backend is integrated).
+-State Management: Context API, Redux (if applicable).
+-Styling: CSS Modules, TailwindCSS.
+-Build Tools: Yarn, Webpack, Babel.
+-Linting: ESLint with TypeScript and React plugins..
+  
 ## Getting Started
 
 ### Prerequisites
@@ -33,7 +35,7 @@ Make sure you have the following installed:
 1. Clone the repository:
    bash
    git clone https://github.com/yourusername/chesslegends.git
-   cd chesslegends
+   cd chessking
    
 
 2. Install dependencies:
